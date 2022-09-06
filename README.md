@@ -1,1 +1,2 @@
-# Lab01--GRAFICOS-GPCG
+# Laboratorio 1
+### Gráficas por computadora
