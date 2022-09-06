@@ -1,4 +1,4 @@
-# Laboratorio 1
+# Proyecto 1
 ### Gráficas por computadora
 Resultado:
 
